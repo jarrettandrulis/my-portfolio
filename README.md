@@ -1,2 +1,1 @@
-# my-portfolio
-AWS Serverless
+# Learn AWS Serverless w/ React
